@@ -1,0 +1,53 @@
+.footer-container {
+  background-color: #fff;
+}
+
+footer {
+  color: rgb(114, 113, 113);
+  font-size: 0.84rem;
+}
+
+.footer-top {
+  border-bottom: 1px solid #aaa;
+}
+
+.newsweek-footer {
+  color: red;
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: serif;
+
+  /* border: 2px solid red; */
+  padding-bottom: 0;
+}
+
+.copyright {
+  text-transform: uppercase;
+
+  /* border: 2px solid red; */
+  padding: 0;
+}
+
+.footer-icons {
+  font-size: 1.4rem;
+
+  /* border: 2px solid red; */
+}
+
+.footer-icons i:hover {
+  color: cornflowerblue;
+}
+
+/* FOOTER BOTTOM */
+
+.footer-bottom p {
+  display: inline;
+  padding: 0 0.5em;
+  border-right: 1px solid #aaa;
+}
+
+.edition {
+  font-weight: 700;
+  color: #333;
+  border-right: none;
+}

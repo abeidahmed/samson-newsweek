@@ -1,0 +1,5 @@
+.featured-continued .text-wrap,
+.sponsored-container .text-wrap {
+  border: 1px solid rgb(211, 211, 211);
+  padding: 0 1em 1em;
+}

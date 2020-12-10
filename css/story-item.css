@@ -1,0 +1,11 @@
+.stories-item {
+  /* border: 2px solid blue; */
+}
+
+.stories-item img {
+  float: left;
+}
+
+.title-small {
+  font-size: 1.12rem;
+}

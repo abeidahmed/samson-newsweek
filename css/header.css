@@ -1,0 +1,95 @@
+.page-header {
+  background-color: #f34a24;
+  color: #fff;
+}
+
+.newsweek-header {
+  font-size: 4rem;
+  font-weight: 700;
+  font-family: serif;
+}
+
+.waves {
+  width: 35px;
+  height: 20px;
+}
+
+.large-left {
+  padding-top: 2em;
+  font-size: 0.9rem;
+}
+
+.large-left p {
+  font-weight: 700;
+}
+
+.large-middle {
+  text-align: center;
+}
+
+.large-right a {
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+/* SUBSCRIBE */
+
+.large-right .subscribe {
+  background-color: #ffe41a;
+  color: #000;
+}
+
+/* HEADER_BAR */
+
+.header-bar-1,
+.header-bar-2 {
+  background-color: #fff;
+  padding: 0.5em 0;
+  margin: 0 auto;
+}
+
+.header-bar-1 p,
+.header-bar-2 p {
+  display: inline;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 0 0.6em;
+  font-size: 0.9rem;
+}
+
+.header-bar-1 p:not(:last-child) {
+  border-right: 1px solid #aaa;
+}
+
+.header-bar-2 p:not(:first-child) {
+  color: #aaa;
+}
+
+.header-bar-1 p:not(:last-child):hover {
+  color: red;
+}
+
+.header-bar-2 p:not(:first-child):hover {
+  color: red;
+}
+
+/* MEDIUM SCREEN */
+
+.header-medium {
+  background-color: #f34a24;
+}
+
+.header-medium > * {
+  display: inline;
+}
+
+.header-medium > * + * {
+  margin-top: 0;
+}
+
+.header-medium .newsweek-header {
+  font-size: 2rem;
+  color: #fff;
+}

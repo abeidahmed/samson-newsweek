@@ -1,0 +1,75 @@
+.subscribe .title,
+.newsletter.title {
+  text-transform: uppercase;
+}
+
+.subscription-container {
+  background-color: #fff;
+}
+
+.subs-img-cont {
+  position: relative;
+  border: 4px solid green;
+}
+
+.subs-box {
+  padding: 4em 0 4em 1em;
+
+  /* border: 5px solid red; */
+  background-color: #f4f5f6;
+}
+
+.subs-img-cont img {
+  width: 70%;
+  height: 100%;
+}
+
+.subs-img-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.subs-img-2 {
+  position: absolute;
+  top: 0;
+  left: 60px;
+}
+
+.subs-btn {
+  background-color: red;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 1.1rem;
+}
+
+.subs-btn:hover {
+  color: #fff;
+}
+
+/* TEXT SECTION */
+
+.subs-text-cont {
+  /* border: 2px solid blue; */
+  padding-left: 1em;
+}
+
+/* NEWSLETTER */
+
+.newsletter-text {
+  border: 1px solid #aaa;
+  border-left: none;
+}
+
+.input-email {
+  border: 1px solid #aaa;
+  width: 100%;
+}
+
+.newsletter-text p {
+  /* border: 2px solid red; */
+}
+
+.newsletter-box img {
+  width: 100%;
+}

@@ -1,0 +1,48 @@
+.magazine-section {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* TOP TITLE */
+
+.logo-heading {
+  text-transform: uppercase;
+  color: #333;
+  font-weight: 700;
+  font-size: 1.2rem;
+
+  /* border: 2px solid red; */
+  text-align: center;
+}
+
+.logo-heading span {
+  background-color: red;
+  color: #fff;
+}
+
+/* MAGAZINE SECTION BUTTONS */
+
+.first-mag button {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.mid-mag span {
+  right: 0;
+  background-color: #fff;
+  padding-left: 0;
+}
+
+.mid-mag .sp1 {
+  background-color: red;
+  color: #fff;
+  margin-right: 0.5em;
+  padding: 0.2em 0.5em;
+}
+
+/* h2 */
+
+.magazine-section h2 {
+  /* border: 2px solid blue; */
+  padding-top: 0;
+  margin-top: 0;
+}
